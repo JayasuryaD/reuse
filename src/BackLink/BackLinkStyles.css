@@ -1,0 +1,14 @@
+.link{ 
+    text-decoration: none;
+}
+.left-arrow{
+
+}
+.link-btn{
+    background: transparent;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+    color:#227700;
+}

@@ -1,0 +1,17 @@
+.wrapper-table{
+    display: flex;
+    align-items: center;
+}
+
+.wrapper-table .title-c{
+    flex:2;
+    font-weight: lighter;
+}
+.wrapper-table .checkbox-c{
+    flex:1;
+}
+
+.wrapper-table input[type="checkbox"]{
+    height:20px;
+    width:20px;
+}
